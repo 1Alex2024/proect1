@@ -1,0 +1,236 @@
+@media (max-width: 1900px) {
+    .content_title-zagolovok {
+        font-size: 4vw;
+    }
+    .content_title-text {
+        font-size: 3vw;
+    }
+    .avatar {
+        width: 40vw;
+    }
+
+    .subscription_info_text {
+        width: 50vw;
+        
+    }
+}
+
+
+    @media (max-width: 1090px) {
+        .subscription_form-email {
+        width: 46vw;
+        
+    }
+    .subscription_form-href {
+        width: 25vw;
+    }
+    .social_network-vektor {
+        padding-left: 37px;
+    }
+    
+
+    }
+    
+
+
+
+@media (max-width: 1024px) {
+
+    .header_nav-link {
+        text-align: center;
+    }
+    .content_title-zagolovok {
+        font-size: 4vw;
+       padding-bottom: 20px;
+    }
+    .content_title-text {
+        font-size: 3vw;
+    }
+    .content_avatar {
+        display: block;
+        width: 50vw;        
+        margin: 0 auto;
+    }
+    .content_title {
+        display: inline-block;
+        margin: 0 auto;
+    }
+    .transformation_img {
+        margin-left: 100px;
+    }
+    .robotization_img {
+        margin-left: 100px;
+    }
+    .robotization_info {
+        padding-left: 0;
+    }
+
+    #subscription {
+        height: 560px;
+    }
+
+    .subscription_info {
+        margin-left: 150px;
+    }
+    .subscription_info_text {
+        width: 50vw;
+        
+    }
+
+    
+    .subscription_form-email {
+        width: 46vw;
+        font-size: 20px;
+        display: inline-block;
+    
+    }
+
+    .subscription_form-href {
+        width: 30vw;
+    }
+    .social_network-vektor {
+        padding-left: 3vw;
+    }
+    .social_network-vektor_img {
+        width: 7vw;
+    }
+    
+
+}
+@media (max-width: 768px) {
+
+    #hero {
+        padding-left: 50px;
+        padding-bottom: 50px;
+    }
+    .header {
+        padding: 10px;
+    }
+    
+    .header_nav-link {
+        text-align: center;
+        font-size: 12px;
+
+    }
+
+    .content_title-zagolovok {
+        font-size: 3vw;
+        padding-bottom: 20px;
+        display: block;
+        text-align: center;
+        width: 90vw;
+    }
+    .content_title-text {
+        display: block;
+        font-size: 2vw;
+        width: 90vw;
+        text-align: center;
+        
+    }
+    .content_avatar {
+        display: block;
+        width: 50vw;        
+        margin: 0 auto;
+    }
+    .content_title {
+        display: inline-block;
+        margin: 0 auto;
+    }
+
+    .info_blog-text {
+        font-size: 29px;
+        margin-bottom: 100px;
+    }
+    .transformation_img {
+        margin-left: 50px;
+    }
+    .transformation_img-transformer {
+        width: 287px;
+        height: 125px;
+        
+    }
+    .robotization_img {
+        margin-left: 50px;
+    }
+    .robotization_img-robot {
+        width: 287px;
+        height: 125px;
+
+    }
+    .robotization_info {
+        padding-left: 0;
+        display: inline-block;
+    }
+    .transformation_info {
+        padding: 0;
+    display: inline-block;
+       
+}
+.transformation_date-mar {
+    display: inline-block;
+    margin-right: 220px;
+}
+.transformation_info-zagolovok {
+    font-size: 20px;
+    display: inline-block;
+}
+.transformation_info-text {
+    font-size: 11px;
+    display: inline-block;
+}
+.robotization_info-zagolovok {
+    font-size: 20px;
+    display: inline-block;
+}
+.robotization_info-text {
+    font-size: 11px;
+    display: inline-block;
+}
+
+#subscription {
+    height: 560px;
+}
+
+.subscription_info {
+    margin-left: 150px;
+}
+.subscription_info_text {
+    width: 50vw;
+    font-size: 20px;
+}
+
+
+.subscription_form-email {
+    width: 46vw;
+    font-size: 10px;
+    display: block;
+}
+
+.subscription_form-href {
+    width: 150px;
+    height: 45px;
+    font-size: 12px;
+    display: block;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.subscription_form-href {
+    width: 30vw;
+}
+.social_network-vektor {
+    padding-left: 3vw;
+}
+/* .social_network-vektor_img {
+    width: 7vw;
+} */
+
+.social_network-text {
+    font-size: 25px;
+    line-height: 41px;
+    padding-top: 0;
+    margin-bottom: 30px;
+}
+
+
+
+}
