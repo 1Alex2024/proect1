@@ -220,9 +220,6 @@
 .social_network-vektor {
     padding-left: 3vw;
 }
-/* .social_network-vektor_img {
-    width: 7vw;
-} */
 
 .social_network-text {
     font-size: 25px;
@@ -231,6 +228,180 @@
     margin-bottom: 30px;
 }
 
+@media (max-width: 500px) {
 
 
+    #hero {
+        padding-left: 25px;
+        padding-bottom: 25px;
+    }
+    .header {
+        padding: 10px;
+    }
+    
+    .header_nav-link {
+        text-align: center;
+        font-size: 7px;
+        padding: 0;
+
+    }
+    .header nav ul li {
+        margin-right: 40px;
+    }
+    .content_title-zagolovok {
+        padding-bottom: 10px;
+    }
+
+}
+
+#info_blog {
+    padding: 20px 20px 20px 20px;
+}
+.info_blog-text {
+    font-size: 5vw;
+    margin-bottom: 20px;
+}
+
+.info_href::before {
+    font-size: 10vw;
+}
+.info_href-link  {
+    font-size: 5vw;
+}
+
+#content_transformation {
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.transformation_info {
+    padding: 0;
+display: inline-block;
+width: 90vw;
+   
+}
+.transformation_img {
+    
+    margin-bottom: 10px;
+}
+.transformation_img-transformer {
+    width: 207px;
+    height: 80px;
+    
+}
+
+.create-line {
+
+    width: 90vw;
+}
+.robotization_img {
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    
+}
+.transformation_info {
+    padding: 0;
+display: inline-block;
+width: 90vw;
+   
+   
+}
+
+.robotization_info {
+    padding: 0;
+display: inline-block;
+width: 90vw;
+
+}
+.robotization_img-robot {
+    width: 207px;
+    height: 80px;
+}
+.transformation_date-mar {
+    display: inline-block;
+    margin-right: 280px;
+    width: 30vw;
+    padding-bottom: 10px;
+}
+.transformation_info-zagolovok {
+    font-size: 15px;
+    display: inline-block;
+}
+.transformation_info-text {
+    font-size: 13px;
+    display: inline-block;
+}
+.robotization_info-zagolovok {
+    font-size: 15px;
+    display: inline-block;
+}
+.robotization_info-text {
+    font-size: 13px;
+    display: inline-block;
+}
+.robotization_href::before {
+    font-size: 10vw;
+}
+.robotization_href-link {
+    font-size: 5vw;
+    
+}
+
+#subscription {
+    height: 360px;
+}
+
+.subscription_info {
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.subscription_info_text {
+    width: 75vw;
+    font-size: 15px;
+}
+
+
+.subscription_form-email {
+    width: 115px;
+    height: 37px;
+    font-size: 5px;
+    display: inline;
+    margin-top: 10px;
+    
+}
+.subscription_form-email:invalid {
+    border-width: 5px;
+}
+
+.subscription_form-href {
+    width: 60px;
+    height: 37px;
+    font-size: 7px;
+    margin-left: 0;
+    margin-top: 10px;
+    padding-left: 7px;
+    display: inline;
+}
+
+#socialnetwork{
+    padding: 20px;
+}
+
+
+.social_network-text {
+    font-size: 19px;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.social_network-href {
+    padding: 0;
+}
+.social_network-vektor_img {
+    width: 5vw;
+}
 }
